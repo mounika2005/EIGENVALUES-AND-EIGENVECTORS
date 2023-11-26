@@ -14,6 +14,7 @@ prepare the lists from each linear equations and assign in no.array().
 end the program
 
 ## Program:
+```
 #Program to find the eigen values and eigen vectors.
 #Developed by: LEVAKU LAKSHMI MOUNIKA
 #RegisterNumber:23004124
@@ -23,6 +24,6 @@ Values,vectors=np.linalg.eig(a)
 print("Eigen values are",Values,"and Eigen Vectors are",vectors)
 ## Output:
 ![Screenshot 2023-11-26 141549](https://github.com/mounika2005/EIGENVALUES-AND-EIGENVECTORS/assets/145633112/a2b073d7-c540-4d1a-b5e8-c0737590b919)
-
+```
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
