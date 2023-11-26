@@ -22,8 +22,9 @@ import numpy as np
 a=[[4,2],[2,4]]
 Values,vectors=np.linalg.eig(a)
 print("Eigen values are",Values,"and Eigen Vectors are",vectors)
+```
 ## Output:
 ![Screenshot 2023-11-26 141549](https://github.com/mounika2005/EIGENVALUES-AND-EIGENVECTORS/assets/145633112/a2b073d7-c540-4d1a-b5e8-c0737590b919)
-```
+
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
